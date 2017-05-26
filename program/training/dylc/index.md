@@ -3,7 +3,7 @@ title: "Developing Youth Leaders Conference (DYLC) - Western Region, Order of th
 date:   2016-04-29 17:27 -0600
 description: "The National Leadership Seminar (DYLC) is a weekend training program focusing on leadership development."
 layout: page-with-banner
-bannerClass: "dylc-2017-salt-lake-city"
+bannerClass: "dylc-2017-portland"
 ---
 
 <div class="logo-dylc center-block"></div>

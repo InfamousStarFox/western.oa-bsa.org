@@ -1,37 +1,7 @@
 /**
-* 2017 NLS and DYLC @ Salt Lake City Banner
-*/
-header.banner.nls-2017-salt-lake-city {
-  display: none;
-
-  @media (min-width: $screen-sm-min) {
-    display: block;
-    height: 400px;
-
-    &::after {
-      @include retina-image($filename: '/images/banners/nls-2017-salt-lake-city', $background-size: cover, $extension: 'jpg', $retina-suffix: '@2x');
-      background-position-y: center;
-    }
-  }
-}
-header.banner.dylc-2017-salt-lake-city {
-  display: none;
-
-  @media (min-width: $screen-sm-min) {
-    display: block;
-    height: 400px;
-
-    &::after {
-      @include retina-image($filename: '/images/banners/dylc-2017-salt-lake-city', $background-size: cover, $extension: 'jpg', $retina-suffix: '@2x');
-      background-position-y: center;
-    }
-  }
-}
-
-/**
 * 2017 NLS and DYLC @ Portland Banner
 */
-header.banner.nls-2017-portland {
+header.banner.dylc-2017-portland, header.banner.nls-2017-portland {
   display: none;
 
   @media (min-width: $screen-sm-min) {
@@ -40,7 +10,7 @@ header.banner.nls-2017-portland {
 
     &::after {
       @include retina-image($filename: '/images/banners/nls-2017-portland', $background-size: cover, $extension: 'jpg', $retina-suffix: '@2x');
-      background-position-y: top;
+      background-position-y: center;
     }
   }
 }
@@ -56,6 +26,7 @@ header.banner.nls-2017-tokyo {
 
     &::after {
       @include retina-image($filename: '/images/banners/nls-2017-tokyo', $background-size: cover, $extension: 'jpg', $retina-suffix: '@2x');
+	  background-position-y: center;
     }
   }
 }
