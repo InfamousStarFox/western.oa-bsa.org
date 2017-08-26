@@ -28,22 +28,6 @@ The conference will conclude at 1:00 p.m. on Sunday afternoon.
 Participants are on their own for their Friday evening meal.
 The first meal for the participants will be breakfast on Saturday morning.
 
-## May 5-7, 2017
-
-<div class="alert alert-info">
-  <strong>Note:</strong>
-  The DYLC has been moved to the Embassy Suites in West Valley City, UT.
-  The NLS will remain entirely at Camp Tracy.
-  Price includes a 2 night stay at the Embassy Suites.
-</div>
-
-* **NLS and DYLC**
-* Price: $190
-* [Register](https://registration.oa-bsa.org/Event/23)
-* [Embassy Suites, West Valley City, UT](http://embassysuites3.hilton.com/en/hotels/utah/embassy-suites-by-hilton-salt-lake-west-valley-city-SLCSMES/index.html)
-* [Required: Medical Form Part A &amp; B](http://www.scouting.org/filestore/HealthSafety/pdf/680-001_AB.pdf)
-
-
 ## October 6-8, 2017
 
 * **NLS and DYLC**

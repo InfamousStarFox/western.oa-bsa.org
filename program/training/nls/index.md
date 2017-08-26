@@ -30,15 +30,6 @@ Adults who are currently or will soon hold a lodge-level or chapter-level advise
 The NLS training is open to anyone seeking to hone their leadership skills applicable to Scouting as well as daily life.
 Adults who are unsure which might be best for them should talk to their lodge adviser for guidance or e-mail [training@western.oa-bsa.org](mailto:training@western.oa-bsa.org).
 
-## May 5-7, 2017
-
-* **NLS and DYLC**
-* Price: $150
-* [Register](https://registration.oa-bsa.org/Event/23)
-* [Camp Tracy, Salt Lake City, UT](https://www.saltlakescouts.org/new-scout-camp)
-* [Required: Medical Form Part A &amp; B](http://www.scouting.org/filestore/HealthSafety/pdf/680-001_AB.pdf)
-
-
 ## October 6-8, 2017
 
 * **NLS and DYLC**
